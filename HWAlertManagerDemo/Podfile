@@ -1,0 +1,5 @@
+target 'HWAlertManagerDemo' do
+
+pod 'Masonry'
+
+end
