@@ -40,7 +40,13 @@
                       ];
     return [self initWithTitle:title detail:detail items:items inputPlaceholder:inputPlaceholder inputHandler:inputHandler];
 }
-
+- (instancetype) initWithInputTitle:(NSString*)title
+                             detail:(NSString*)detail
+                        placeholder:(NSString*)inputPlaceholder
+                              items:(NSArray*)items
+                            handler:(MMPopupInputHandler)inputHandler{
+    return [self initWithTitle:title detail:detail items:items inputPlaceholder:inputPlaceholder inputHandler:inputHandler];
+}
 - (instancetype) initWithConfirmTitle:(NSString*)title
                                detail:(NSString*)detail
 {
