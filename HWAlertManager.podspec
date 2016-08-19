@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "HWAlertManager"
-  s.version      = "1.5.0"
+  s.version      = "v2.0.0"
   s.summary      = "Pop-up based view(e.g. AlertView SheetView), or you can easily customize for your own usage."
   s.homepage     = "https://github.com/wowbby/HWAlertManager"
   s.license      = "MIT"
