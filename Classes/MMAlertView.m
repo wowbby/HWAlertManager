@@ -259,10 +259,7 @@
     
     if ( self.withKeyboard && (btn.tag==1) )
     {
-        if ( self.inputView.text.length > 0 )
-        {
-            [self hide];
-        }
+        
     }
     else
     {

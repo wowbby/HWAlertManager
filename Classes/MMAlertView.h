@@ -32,6 +32,8 @@ typedef void(^MMPopupInputHandler)(NSString *text);
 - (instancetype) initWithTitle:(NSString*)title
                         detail:(NSString*)detail
                          items:(NSArray*)items;
+
+- (void)hide;
 @end
 
 
