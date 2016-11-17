@@ -278,6 +278,7 @@
 				TargetAttributes = {
 					F5693D211D66E06C00C5E215 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 9DG49JDW2L;
 					};
 					F5693D3D1D66E06C00C5E215 = {
 						CreatedOnToolsVersion = 7.3;
@@ -540,6 +541,7 @@
 			baseConfigurationReference = C47C8C1393C3C65C4D61AA08 /* Pods-HWAlertManagerDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9DG49JDW2L;
 				INFOPLIST_FILE = HWAlertManagerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.haieruhome.www.HWAlertManagerDemo;
@@ -552,6 +554,7 @@
 			baseConfigurationReference = E0FD186C91A0EA0C2D5E8439 /* Pods-HWAlertManagerDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9DG49JDW2L;
 				INFOPLIST_FILE = HWAlertManagerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.haieruhome.www.HWAlertManagerDemo;

@@ -33,7 +33,6 @@ typedef void(^MMPopupInputHandler)(NSString *text);
                         detail:(NSString*)detail
                          items:(NSArray*)items;
 
-- (void)hide;
 @end
 
 
